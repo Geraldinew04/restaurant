@@ -1,0 +1,21 @@
+{
+"short_name": "Kahlo",
+"name": "Cantina Kahlo",
+"icons": [
+{
+"src": "img/tacas_192.png",
+"type": "image/png",
+"sizes": "192x192"
+},
+{
+"src": "img/frida-icone-512.png",
+"type": "image/png",
+"sizes": "512x512"
+}
+],
+"start_url": "/restaurant/index.html",
+"background_color": "#3367D6",
+"display": "standalone",
+"scope": "/restaurant/",
+"theme_color": "#3367D6"
+}
