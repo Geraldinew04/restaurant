@@ -2,3 +2,197 @@
 	background-image: url("../img/azulejos.jpg");
 
 }
+
+h1{
+	background-color : rgba(52, 58, 64, 0.9); 
+	color: #aea9a9; 
+	font-family:'Sacramento', cursive; 
+	font-size: 75px; text-align: center;
+}
+
+.nav-link{
+	color: #aea9a9;
+}
+
+.card-img-top{
+	max-width: 100%; 
+	height:auto;
+}
+
+h5{
+	background-color: rgba(38, 108, 97,0.7);
+	padding: 5px;
+}
+
+.card{
+	margin-top: 15px;
+}
+
+#carouselExampleIndicators{
+	margin-top: 15px;
+}
+
+.d-block{
+	max-width: 100%; 
+	height: 350px;
+}
+
+.carousel-caption h5, .carousel-caption p{
+	background-color: rgba(105, 166, 23,0.6);
+	color: #FFF;
+}
+
+.frida img{
+	max-width: 100%; 
+	height: 250px; 
+	display: block; 
+	margin-right: auto;
+	margin-left: auto; 
+	border-radius: 50%
+}
+
+input[type=text], select, textarea {
+width: 100%;
+padding: 8px 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+/*margin-bottom: 16px;*/
+resize: vertical;
+}
+
+input[type=submit] {
+background-color: #149654;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+}
+
+input[type=submit]:hover {
+background-color: #149654;
+}
+
+.container {
+border-radius: 5px;
+padding: 20px;
+}
+
+.photo{
+	max-width:300px; 
+	width: 100%; 
+	height:225px;
+}
+
+.legende{
+	text-align: center;
+}
+
+.contact{
+	background-color: rgba(253, 196, 21, 0.7);
+	padding: 40px; 
+	border-radius: 10%;	
+}
+
+h3{
+text-align: center; 
+padding-bottom: 20px; 
+color: #666;
+}
+
+#logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+.vert{
+	color: green;
+}
+
+.rouge{
+	color: red;
+}
+
+iframe{
+	border-radius: 20%;
+}
+
+#title{
+	text-align: center; 
+	font-family: 'Sacramento', cursive; 
+	font-size: 75px;
+}
+
+#liege, #namur,.horaire{
+	text-align: center;
+}
+
+.jour{
+	list-style: none
+}
+
+#namur{
+	background-color: #343a40; 
+	color: #FFF; 
+	padding-top: 20px;
+}
+
+.map{
+	display: block; 
+	margin-right: auto; 
+	margin-left: auto; 
+	vertical-align: middle;
+}
+
+#boh{
+	background-color: rgba(253, 196, 21, 0.5); 
+	border-radius: 10%;
+}
+
+#kahlo{
+
+	max-width: 200px; 
+	width: 100%; 
+	height: 350px;
+	border-radius: 60%;
+	margin-top: 30px;
+}
+
+.titre{
+	text-align: center; 
+	margin-top: 40px;
+}
+
+.facebook,.instagram,.form-group{
+	color: #666
+}
+
+#subject{
+	height:200px
+}
+
+.button{
+	text-align: right;
+}
+
+.rs{
+	text-align: center;
+}
+
+#frida{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px; 
+	margin-top: 40px; 
+	border-radius: 50%;
+}
+.footer-copyright img{
+	max-width: 50px; 
+	width: 100%; 
+	height: 50px;
+}
